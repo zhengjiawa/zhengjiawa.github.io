@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome to Zhengjia's Homepage!
 
-Presently, I am pursuing my Ph.D. degree at Institute of Computing Technology, Chinese Academy of Sciences ([ICT](https://www.ict.ac.cn/)), under the supervision of [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ). Prior to this, I received my Bachelor’s degree in Computer Science and Technology from Beijing Jiaotong University.
+Presently, I am pursuing my Ph.D. degree at Institute of Computing Technology, Chinese Academy of Sciences ([ICT](https://www.ict.ac.cn/)), under the supervision of [Prof. Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ). Prior to this, I received my Bachelor’s degree in Computer Science and Technology from Beijing Jiaotong University, where I was fortunate to work with [Prof. Jitao Sang](https://faculty.bjtu.edu.cn/9129/).
 
 If you have any inquiries or are interested in potential collaboration, please feel free to reach out via e-mail (E-mail: zhengjiawa@qq.com), in either English or Chinese.
 
