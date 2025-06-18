@@ -5,7 +5,7 @@ main:
     conference_short: IPM 
     conference: Information Processing & Management
     pdf: https://arxiv.org/abs/2312.16490
-    project: https://github.com/ICTMCG/NewsInt
+    code: https://github.com/ICTMCG/NewsInt
     image: ./assets/img/newsint.png
 
   - title: "Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection"
