@@ -5,7 +5,7 @@ main:
     conference_short: IPM 
     conference: Information Processing & Management
     pdf: https://arxiv.org/abs/2312.16490
-    code: https://github.com/ICTMCG/NewsInt
+    page: https://github.com/ICTMCG/NewsInt
     image: ./assets/img/newsint.png
 
   - title: "Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection"
@@ -22,3 +22,10 @@ main:
     conference: arXiv:2505.18154
     pdf: https://arxiv.org/abs/2505.18154
     image: ./assets/img/ethics.png
+
+  - title: "Metadata connector: Exploiting hashtag and tag for cross-OSN event search"
+    authors: Yuqi Gao, Jitao Sang, Chengpeng Fu, <strong>Zhengjia Wang</strong>, Tongwei Ren, Changsheng Xu
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia
+    pdf: https://ieeexplore.ieee.org/abstract/document/9042240
+    image: ./assets/img/hashtag.png
