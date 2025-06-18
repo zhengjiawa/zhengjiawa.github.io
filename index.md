@@ -23,3 +23,6 @@ My research interests are at the intersection of natural language processing and
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+<p style="font-size: small; color: gray; text-align: center;">
+  Modified from <a href="https://jiayingwu19.github.io/" target="_blank">https://jiayingwu19.github.io/</a>. Thanks!
+</p>
