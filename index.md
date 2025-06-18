@@ -17,7 +17,7 @@ My research interests are at the intersection of natural language processing and
 
 ## News
 
-- **[June 2025]** The very first paper about [news creation intent](https://doi.org/10.1016/j.ipm.2025.104229) has been accepted to *Information Processing & Management*.
+- **[June 2025]** The very first paper about [news creation intent](https://doi.org/10.1016/j.ipm.2025.104229) has been accepted to *Information Processing & Management* 🎉🎉🎉.
 
 
 {% include_relative _includes/publications.md %}
