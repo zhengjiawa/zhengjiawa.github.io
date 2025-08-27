@@ -1,7 +1,7 @@
 main:
 
   - title: " Exploring news intent and its application: A theory-driven approach"
-    authors: <strong>Zhengjia Wang</strong>, Danding Wang, Qiang Sheng, Juan Cao, Siyuan Ma, Haonan Cheng
+    authors: <strong>Zhengjia Wang</strong>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>, Siyuan Ma, Haonan Cheng
     conference_short: IPM 
     conference: Information Processing & Management
     pdf: https://arxiv.org/abs/2312.16490
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/newsint.png
 
   - title: "Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection"
-    authors: Beizhe Hu, Qiang Sheng, Juan Cao, Yongchun Zhu, Danding Wang, <strong>Zhengjia Wang</strong>, Zhiwei Jin
+    authors: Beizhe Hu, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>, <a href="https://easezyc.github.io/">Yongchun Zhu</a>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, <strong>Zhengjia Wang</strong>, Zhiwei Jin
     conference_short: ACL
     conference: The 61st Annual Meeting Of The Association For Computational Linguistics (ACL 2023)
     pdf: https://arxiv.org/abs/2306.14728
@@ -17,7 +17,7 @@ main:
 
 
   - title: "The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas"
-    authors: Ya Wu, Qiang Sheng, Danding Wang, Guang Yang, Yifan Sun, <strong>Zhengjia Wang</strong>, Yuyan Bu, Juan Cao
+    authors: Ya Wu, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, Guang Yang, Yifan Sun, <strong>Zhengjia Wang</strong>, Yuyan Bu, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>
     conference_short: EMNLP
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) 
     pdf: https://arxiv.org/abs/2505.18154
