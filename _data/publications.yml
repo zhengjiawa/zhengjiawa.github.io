@@ -1,6 +1,6 @@
 main:
 
-  - title: " Exploring news intent and its application: A theory-driven approach. Information Processing & Management"
+  - title: " Exploring news intent and its application: A theory-driven approach"
     authors: <strong>Zhengjia Wang</strong>, Danding Wang, Qiang Sheng, Juan Cao, Siyuan Ma, Haonan Cheng
     conference_short: IPM 
     conference: Information Processing & Management
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/newsint.png
 
   - title: "Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection"
-    authors: Hu Beizhe, Sheng Qiang, Cao Juan, Zhu Yongchun, Wang Danding, <strong>Wang Zhengjia</strong>, Jin Zhiwei
+    authors: Beizhe Hu, Qiang Sheng, Juan Cao, Yongchun Zhu, Danding Wang, <strong>Zhengjia Wang</strong>, Zhiwei Jin
     conference_short: ACL
     conference: The 61st Annual Meeting Of The Association For Computational Linguistics <strong>(ACL)</strong>, 2023.
     pdf: https://arxiv.org/abs/2306.14728
@@ -18,8 +18,8 @@ main:
 
   - title: "The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas"
     authors: Ya Wu, Qiang Sheng, Danding Wang, Guang Yang, Yifan Sun, <strong>Zhengjia Wang</strong>, Yuyan Bu, Juan Cao
-    conference_short: Arxiv
-    conference: arXiv:2505.18154
+    conference_short: EMNLP
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) 
     pdf: https://arxiv.org/abs/2505.18154
     image: ./assets/img/ethics.png
 
