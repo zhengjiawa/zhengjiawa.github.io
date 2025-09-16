@@ -4,7 +4,7 @@ main:
     authors: <strong><u>Zhengjia Wang</u></strong>, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, <a href="https://beanandrew.github.io/">Beizhe Hu</a>, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>
     conference_short: CIKM
     conference: Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)
-    pdf: TODO
+    pdf: https://arxiv.org/abs/2509.01660
     page: https://github.com/ICTMCG/InSide
     image: ./assets/img/inside.png
     
