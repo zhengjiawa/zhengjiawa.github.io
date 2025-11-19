@@ -16,8 +16,8 @@ My research interests are at the intersection of natural language processing and
 
 
 ## News
-
-- **[August 2025]** The first paper about Intent-Semantic Joint Modeling (InSide) for fake news detection has been accepted to *CIKM 2025* 🎉🎉🎉.
+- **[November 2025]** "Learning from omission" for fake news detection has been accepted to *AAAI 2026 (Oral)* 🎉🎉🎉.
+- **[August 2025]** The first paper about Intent-Semantic Joint Modeling (InSide) for fake news detection has been accepted to *CIKM 2025 (Oral)* 🎉🎉🎉.
 - **[June 2025]** The very first paper about [news creation intent](https://doi.org/10.1016/j.ipm.2025.104229) has been accepted to *Information Processing & Management* 🎉🎉🎉.
 
 
