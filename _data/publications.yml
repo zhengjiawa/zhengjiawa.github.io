@@ -3,12 +3,11 @@ main:
   - title: "Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference"
     authors: <b><u>Zhengjia Wang</u></b>, Danding Wang, Qiang Sheng, Jiaying Wu, Juan Cao 
     conference_short: AAAI
-    conference:	<strong>AAAI 2026</strong>
-    notes: Oral
+    conference:	<strong>AAAI 2026 (Oral)</strong>
     image: ./assets/img/2026_aaai_omigraph.jpg
 
   - title: "Bridging Thoughts and Words: Graph-Based Intent-Semantic Joint Learning for Fake News Detection"
-    authors: <strong><u>Zhengjia Wang</u></strong>, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, <a href="https://beanandrew.github.io/">Beizhe Hu</a>, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>
+    authors: <b><u>Zhengjia Wang</u></b>, Qiang Sheng, Danding Wang, Beizhe Hu, Juan Cao
     conference_short: CIKM
     conference: Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)
     pdf: https://arxiv.org/abs/2509.01660
@@ -16,7 +15,7 @@ main:
     image: ./assets/img/inside.png
     
   - title: "Exploring news intent and its application: A theory-driven approach"
-    authors: <strong><u>Zhengjia Wang</u></strong>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>, Siyuan Ma, Haonan Cheng
+    authors: <b><u>Zhengjia Wang</u></b>, Danding Wang, Qiang Sheng, Juan Cao, Siyuan Ma, Haonan Cheng
     conference_short: IPM 
     conference: Information Processing & Management
     pdf: https://arxiv.org/abs/2312.16490
@@ -24,7 +23,7 @@ main:
     image: ./assets/img/newsint.png
 
   - title: "Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection"
-    authors: <a href="https://beanandrew.github.io/">Beizhe Hu</a>, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>, <a href="https://easezyc.github.io/">Yongchun Zhu</a>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, <strong><u>Zhengjia Wang</u></strong>, Zhiwei Jin
+    authors: Beizhe Hu, Qiang Sheng, Juan Cao, Yongchun Zhu, Danding Wang, <b><u>Zhengjia Wang</u></b>, Zhiwei Jin
     conference_short: ACL
     conference: The 61st Annual Meeting Of The Association For Computational Linguistics (ACL 2023)
     pdf: https://arxiv.org/abs/2306.14728
@@ -32,14 +31,14 @@ main:
 
 
   - title: "The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas"
-    authors: Ya Wu, <a href="https://sheng-qiang.github.io/">Qiang Sheng</a>, <a href="https://scholar.google.com/citations?user=hGZwK0cAAAAJ">Danding Wang</a>, Guang Yang, Yifan Sun, <strong><u>Zhengjia Wang</u></strong>, Yuyan Bu, <a href="https://scholar.google.com/citations?user=fSBdNg0AAAAJ">Juan Cao</a>
+    authors: Ya Wu, Qiang Sheng, Danding Wang, Guang Yang, Yifan Sun, <b><u>Zhengjia Wang</u></b>, Yuyan Bu, Juan Cao
     conference_short: EMNLP
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) 
     pdf: https://arxiv.org/abs/2505.18154
     image: ./assets/img/ethics.png
 
   - title: "Metadata connector: Exploiting hashtag and tag for cross-OSN event search"
-    authors: Yuqi Gao, Jitao Sang, Chengpeng Fu, <strong><u>Zhengjia Wang</u></strong>, Tongwei Ren, Changsheng Xu
+    authors: Yuqi Gao, Jitao Sang, Chengpeng Fu, <b><u>Zhengjia Wang</u></b>, Tongwei Ren, Changsheng Xu
     conference_short: TMM
     conference: IEEE Transactions on Multimedia
     pdf: https://ieeexplore.ieee.org/abstract/document/9042240
