@@ -29,6 +29,7 @@ main:
     conference_short: ACL
     conference: The 61st Annual Meeting Of The Association For Computational Linguistics (ACL 2023)
     pdf: https://arxiv.org/abs/2306.14728
+    page: https://github.com/ICTMCG/FTT-ACL23
     image: ./assets/img/past.png
 
 
