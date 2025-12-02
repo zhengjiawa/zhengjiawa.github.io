@@ -19,7 +19,7 @@ main:
   - title: "Exploring news intent and its application: A theory-driven approach"
     authors: <b><u>Zhengjia Wang</u></b>, Danding Wang, Qiang Sheng, Juan Cao, Siyuan Ma, Haonan Cheng
     conference_short: IPM 
-    conference: Information Processing & Management
+    conference: Information Processing & Management (IP&M 2025)
     pdf: https://arxiv.org/abs/2312.16490
     page: https://github.com/ICTMCG/NewsInt
     image: ./assets/img/newsint.png
