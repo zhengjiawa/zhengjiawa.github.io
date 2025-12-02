@@ -3,7 +3,7 @@ main:
   - title: "Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference"
     authors: <b><u>Zhengjia Wang</u></b>, Danding Wang, Qiang Sheng, Jiaying Wu, Juan Cao 
     conference_short: AAAI
-    conference:	Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence <strong>[AAAI 2026 (Oral)]</strong>
+    conference:	Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
     image: ./assets/img/2026_aaai_omigraph.jpg
     pdf: https://arxiv.org/abs/2512.01728
     page: https://github.com/ICTMCG/OmiGraph
@@ -11,7 +11,7 @@ main:
   - title: "Bridging Thoughts and Words: Graph-Based Intent-Semantic Joint Learning for Fake News Detection"
     authors: <b><u>Zhengjia Wang</u></b>, Qiang Sheng, Danding Wang, Beizhe Hu, Juan Cao
     conference_short: CIKM
-    conference: Proceedings of the 34th ACM International Conference on Information and Knowledge Management [CIKM 2025 (Oral)]
+    conference: Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)
     pdf: https://arxiv.org/abs/2509.01660
     page: https://github.com/ICTMCG/InSide
     image: ./assets/img/inside.png
